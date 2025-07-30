@@ -2,7 +2,7 @@
 🎯 **Passionate IT Student | UI Enthusiast | Problem Solver**  
 📍 Ponparapapu, Tamil Nadu, India  
 📧 **Email:** [manikandangoff@gmail.com](mailto:manikandangoff@gmail.com)  
-🔗 **Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [LeetCode](https://leetcode.com/yourprofile) | [GitHub](https://github.com/yourusername)  
+🔗 **Connect:** [LinkedIn](https://linkedin.com/in/gmk1108) | [LeetCode](https://leetcode.com/u/Manikandan-gnanasekaran)
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ### 📜 **Certifications**  
-- C Programming Certificate  
+- C NCC Certificate  
 - Thal Sainik Camp (NCC)  
 - All India Trekking Camp  
 - Udemy: WordPress from Scratch  
@@ -54,11 +54,6 @@
 - **Volleyball Player** - Team Collaboration  
 
 ---
-
-### 📊 **GitHub Stats**  
-| ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true) |
-|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-
 ---
 
 ### 🌟 **Areas of Interest**  
@@ -71,7 +66,7 @@
 ### 📫 **Let’s Collaborate!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikandangoff@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Manikandan-gnanasekaran) 
 
 ---
 
